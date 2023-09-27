@@ -4,8 +4,6 @@ public class Dateable {
 
     public static void main(String[] args) {
 
-        class AgeDatingRule {
-            public static void main(String[] args) {
                 Scanner scanner = new Scanner(System.in);
 
                 System.out.print("Enter your age: ");
@@ -17,4 +15,4 @@ public class Dateable {
 
             }
         }
-    }}
+
